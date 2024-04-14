@@ -1,3 +1,29 @@
 body{
   background-color: #91BAFF;
 }
+
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.text{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+font-size: 60px;
+}
+p{
+font-size: 25px;  
+}
+
+.banner-image {
+  margin-top: 30px;
+  max-width: 100%;
+  height: auto;
+}

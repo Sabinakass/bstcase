@@ -1,7 +1,4 @@
-// NoOffers.js
 import React from 'react';
-import './NoOffers.css'; // Ensure you have a corresponding CSS file for styling
-
 const NoOffers = () => {
   return (
     <div className="no-offers-container">

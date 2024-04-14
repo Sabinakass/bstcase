@@ -1,6 +1,6 @@
 import React from 'react';
-import './Welcome.css';
-import banner from './assets/banner.png'
+import banner from '../assets/banner.png'
+
 const Welcome = () => (
   <div className="welcome">
     <div className='text'>
